@@ -62,5 +62,14 @@ Probably some chaos too.
 
 ---
 
+## My Certifications
+
+This will be a growing list, and it will get long.
+
+- Cisco Computer Hardware Basics
+- The Python Institute/Cisco Python Essentials 1 
+
+---
+
 That’s it.  
 Everything else is in the commits.
