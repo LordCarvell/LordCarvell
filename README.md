@@ -26,7 +26,7 @@ Based in the UK. Currently learning offensive security and Linux internals.
 
 ## Certifications
 
-- Cisco — Computer Hardware Basics
+- Cisco - Computer Hardware Basics
 - Python Institute / Cisco - Python Essentials 1
 
 ---
