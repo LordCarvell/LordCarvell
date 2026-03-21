@@ -1,75 +1,37 @@
-# Lord Jack Carvell  
-@LordCarvell
+# Jack Carvell — LordCarvell
 
-I mess with computers until they either work or cry.
-
-Linux.  
-Python.  
-Security.  
-Whatever else looks interesting this week.
+Python developer with a focus on security tooling, automation, and systems understanding.
+Based in the UK. Currently learning offensive security and Linux internals.
 
 ---
 
-## What this GitHub is
+## Projects
 
-Not a portfolio.  
-Not a flex page.
-
-It’s just where my stuff lives.
-
-Scripts I wrote because I was bored.  
-Labs I did because I was curious.  
-Things I broke and had to un-break.  
-Half finished ideas that turned into something useful.
-
-If it’s here, it taught me something.
+| Repository | Description | Stack |
+|------------|-------------|-------|
+| [Port-Scanner](https://github.com/LordCarvell/Port-Scanner) | Multi-threaded TCP port scanner with a GUI, live output, and JSON/CSV/TXT export | Python, Tkinter, Socket |
+| [F1-Dashboard](https://github.com/LordCarvell/F1-Dashboard) | Desktop application for exploring F1 session data - lap times, telemetry, driver comparisons | Python, FastF1, Matplotlib, Tkinter |
+| [Body-Tracker](https://github.com/LordCarvell/Body-Tracker) | Real-time body, hand, and face landmark overlay using webcam input | Python, MediaPipe, OpenCV |
 
 ---
 
-## What I’m doing right now
+## Technical Focus
 
-- Running Kali on my main machine  
-- Learning Linux properly instead of pretending  
-- Writing Python to automate dumb things  
-- Doing TryHackMe and similar labs  
-- Figuring out how systems actually get owned
-
----
-
-## Why
-
-Because clicking buttons is boring.
-
-I want to know:
-- what’s running
-- why it’s running
-- what happens when it breaks
-- and how someone would abuse it
-
-That’s the fun part.
+- **Languages:** Python (primary), Bash
+- **Areas:** Security tooling, network scanning, automation, data visualisation, computer vision
+- **Environment:** Kali Linux
+- **Currently studying:** Offensive security, Linux internals, how systems get compromised and why
 
 ---
 
-## What you’ll see here over time
+## Certifications
 
-- Python tools  
-- Linux scripts  
-- Security notes  
-- Weird experiments  
-- Stuff that didn’t work the first time  
-
-Probably some chaos too.
+- Cisco — Computer Hardware Basics
+- Python Institute / Cisco - Python Essentials 1
 
 ---
 
-## My Certifications
+## Links
 
-This will be a growing list, and it will get long.
-
-- Cisco Computer Hardware Basics
-- The Python Institute/Cisco Python Essentials 1 
-
----
-
-That’s it.  
-Everything else is in the commits.
+- GitHub: [github.com/LordCarvell](https://github.com/LordCarvell)
+- LinkedIn: [linkedin.com/jack-carvell-9b79b7313/](https://www.linkedin.com/in/jack-carvell-9b79b7313/)
