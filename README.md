@@ -1,4 +1,4 @@
-# Jack Carvell — LordCarvell
+# Jack Carvell
 
 Python developer with a focus on security tooling, automation, and systems understanding.
 Based in the UK. Currently learning offensive security and Linux internals.
